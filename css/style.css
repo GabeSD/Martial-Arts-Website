@@ -2,8 +2,13 @@
   position:relative;
   border-style:solid;
   border-bottom:thick solid #F44336;
-}
 
+
+}
+.is{
+  background-position: 100% 100px !important;
+  height:600px !important;
+}
 }
 /*The Border*/
 .tb{
