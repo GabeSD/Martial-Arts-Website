@@ -63,7 +63,7 @@ border-top:thick solid #F44336;
 
 }
 /*Logo Font*/
-.lf{
+.crlf{
   font-family: 'Ubuntu';
 }
 /*Navbar size*/
@@ -84,5 +84,5 @@ border-top:thick solid #F44336;
 /*Padding Result Img*/
 .pri{
   padding-top: 30%;
-  
+
 }
